@@ -1,0 +1,1 @@
+Widget application written in JavaScript for the Scriptable ioS app to create home-screen and lock-screen widgets on iOS to display timetable data for highschool students, as well as code to scrape the timetable data from Visma.
